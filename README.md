@@ -18,8 +18,8 @@ The second dataset used is the ballot and voting information of a small town. Us
 * The winner of the election based on popular vote
 
 ## References
-cantugabriela (2018) Python-Challenge. GitHub repository,     https://github.com/cantugabriela/Python-Challenge
-Larson, Mychele (2022) Python_Analysis. GitHub repository, https://github.com/mychele-larson/Python_Analysis/tree/main
+cantugabriela (2018) Python-Challenge. GitHub repository,     https://github.com/cantugabriela/Python-Challenge \
+Larson, Mychele (2022) Python_Analysis. GitHub repository, https://github.com/mychele-larson/Python_Analysis/tree/main \
 Stewart, L (2019) python-challenge. GitHub repository, https://gitlab.com/laurelstewart/python-challenge
 
 Note: the location of used or inspired code taken from the above sources is indicated within the Python script
